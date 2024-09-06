@@ -1,4 +1,5 @@
 KoinX Crypto Transactions API
+
 This project is a server-side application built using Node.js that allows users to fetch their Ethereum transactions and calculate their total expenses. The application also fetches the current price of Ethereum every 10 minutes and stores it in the database.
 
 Technologies Used
